@@ -1,36 +1,195 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tania Boudedja
-=======================================================================================================================================
+<div align="center">
 
-Junior Full‑Stack Web Developer (AI‑Powered Apps)
--------------------------------------------------
+# 👋 Hi! I'm Tania Boudedja
 
-I’m a junior full‑stack developer currently studying programming in Ontario, Canada.
+### Junior Full-Stack Developer | Building AI-Powered Apps | Ottawa 🇨🇦
 
-I build and ship real, production‑ready web applications with a strong focus on React, Supabase, and modern deployment workflows.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Ready+Web+Apps;React+%7C+Supabase+%7C+Node.js;AI-Powered+Features+%26+CI%2FCD;Real+MVP+with+Real+Users+%F0%9F%9A%80" alt="Typing SVG" />
 
-I’ve already launched a public MVP used by real users, and I actively iterate on features based on feedback. I enjoy building practical products, integrating AI features, and setting up clean CI/CD pipelines to ship faster and more reliably.
+</div>
 
-I’m especially interested in roles where I can learn fast, contribute immediately, and grow as an engineer.
+---
 
-* 🌍  I'm based in Ottawa,Ontario
-* 🖥️  See my portfolio at [🔗 Portfolio:](http://taniaboudedja.netlify.app/)
-* ✉️  You can contact me at [taniaboudedja@outlook.fr](mailto:taniaboudedja@outlook.fr)
-* 🚀  I'm currently working on [Azmam](http://azmam.netlify.app/)
-* 🧠  I'm currently learning Node.js & backend APIs Cloud fundamentals (AWS Cloud Practitioner – in progress) Better CI/CD workflows with Docker & GitHub Actions
-* 👥  I'm looking to collaborate on Full‑stack web applications AI‑powered tools Student or early‑stage product ideas Open‑source or real‑world projects
-* 💬  Ask me about I’m available part‑time while studying until August 2026…
+## 🚀 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
-</p>
+**📍 Location:** Ottawa, Ontario 🇨🇦  
+**💼 Role:** Junior Full-Stack Developer  
+**🚀 Current Project:** Azmam - All-in-One Study Platform  
+**✨ Status:** MVP Live with Real Users  
 
-### Socials
+I'm a **junior full-stack developer** who doesn't just code—I **ship real products**. I've already launched a **public MVP** that real users interact with daily, and I actively iterate based on their feedback.
 
-<p align="left"> <a href="https://www.github.com/TaniaBdj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+I specialize in building **modern web applications** with **React**, **Supabase**, and **Node.js**, with a strong focus on **AI-powered features** and **clean deployment pipelines** (CI/CD, Docker, GitHub Actions).
 
-<b>My GitHub Stats</b>
+**🎯 Focus Areas:** React • Supabase • Node.js • AI Integration • CI/CD  
+**🌱 Currently Learning:** Node.js Backend • AWS Cloud • Advanced Docker  
+**🔍 Looking For:** Opportunities to learn fast and contribute immediately  
+**🤫 Fun Fact:** Part-time student & developer... but don't tell anyone
 
-<a href="http://www.github.com/TaniaBdj"><img src="https://github-readme-stats.vercel.app/api?username=TaniaBdj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaniaBdj's GitHub stats" /></a>
+---
 
-<a href="https://github.com/TaniaBdj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaBdj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 💼 Current Project
+
+<div align="center">
+
+### 🎯 [Azmam](http://azmam.netlify.app/) - All-in-One Study Platform
+
+**Status:** 🟢 MVP Live | v1.0 Launching Soon
+
+</div>
+
+An AI-powered study companion helping students stay organized and productive. Features include:
+
+- ✅ Smart task management with AI suggestions
+- ⏱️ Pomodoro timer with analytics
+- 📊 Study tracking & progress insights
+- 🤖 AI-powered study assistance
+- 🔄 Full CI/CD pipeline with automated deployment
+
+**Tech Stack:** React • TypeScript • Supabase • TailwindCSS • Netlify • AI APIs
+
+> **Real Impact:** Currently being used by actual students for their daily study routines
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### AI & ML
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TaniaBdj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=ffffff&count_private=true" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaBdj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaniaBdj&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+**Backend Development:**  
+Node.js & Express.js - Building robust REST APIs
+
+**Cloud Computing:**  
+AWS Cloud Practitioner Certification (in progress)
+
+**DevOps:**  
+Advanced CI/CD workflows with Docker & GitHub Actions
+
+**Next Goals:**  
+Kubernetes • Microservices • System Design
+
+---
+
+## 💡 What I Bring
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎯 Production Experience
+- Launched MVP with **real users**
+- **Iterative development** based on feedback
+- Full ownership from idea to deployment
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI Integration
+- Building **AI-powered features**
+- Experience with **Hugging Face** & AI APIs
+- Making AI practical and user-friendly
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Modern Workflows
+- **CI/CD pipelines** with GitHub Actions
+- **Docker** containerization
+- Clean code & best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm actively looking for opportunities where I can:
+
+- 🚀 **Learn fast** and contribute immediately
+- 💻 Work on **full-stack web applications**
+- 🤖 Build **AI-powered tools** and features
+- 🌱 Grow as an engineer in a supportive environment
+- 🔧 Contribute to **open-source projects**
+
+**Open to:** Internships, Junior positions, Freelance projects, Open-source collaboration
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-taniaboudedja@outlook.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniaboudedja@outlook.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-taniaboudedja.netlify.app-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://taniaboudedja.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-TaniaBdj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaniaBdj)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=06B6D4" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**"Building the future, one commit at a time."** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=TaniaBdj&color=06B6D4&style=flat-square&label=Profile+Views)
+
+</div>
