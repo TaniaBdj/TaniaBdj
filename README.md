@@ -9,7 +9,7 @@ React • Supabase • CI/CD • Docker
 ## 🚀 Current Project
 
 ### [Azmam](http://azmam.netlify.app/) - All-in-One Study Platform
-Live MVP with 12+ active beta users. Unified dashboard for notes, schedules, and tasks.
+Live MVP with 30+ active beta users. Unified dashboard for notes, schedules, and tasks.
 
 **Tech Stack:** React • Supabase • GitHub Actions • Docker • Netlify
 
@@ -51,4 +51,3 @@ Live MVP with 12+ active beta users. Unified dashboard for notes, schedules, and
 
 ---
 
-**Available part-time (up to 24 hours/week) as a student until August 2026**>
