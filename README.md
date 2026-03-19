@@ -1,53 +1,66 @@
-# Tania Boudedja
+# 👋 Hi, I'm Tania
 
-**Junior Full-Stack Developer — I ship production web apps used by real users**
+**Full-Stack Developer — I build and ship production web applications used by real users**
 
-React • Supabase • CI/CD • Docker
+React • Supabase • TypeScript • CI/CD • Docker
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project
 
-### [Azmam](http://azmam.netlify.app/) - All-in-One Study Platform
-Live MVP with 30+ active beta users. Unified dashboard for notes, schedules, and tasks.
+### 🔗 Azmam — All-in-One Study Platform  
+👉 Live App: https://taniaboudedja.netlify.app  
+👉 GitHub: https://github.com/TaniaBdj/[repo-name]
 
-**Tech Stack:** React • Supabase • GitHub Actions • Docker • Netlify
+Production-ready web application with **30+ users** and active usage.
+
+### ✨ Key Features
+- Unified dashboard (notes, tasks, schedule, Pomodoro)
+- Secure authentication (Magic Link, Google OAuth)
+- Offline-first functionality with data sync
+- Real-time updates and user-driven improvements
+
+### ⚡ Impact
+- 6+ months in production  
+- 30+ registered users, active usage  
+- Weekly releases based on user feedback  
+- ~30% improvement in initial load performance  
 
 ---
 
 ## 💼 What I Bring
 
-- **Production experience:** Shipped and deployed full-stack features used by real users
-- **CI/CD pipelines:** Automated testing and deployment with GitHub Actions and Docker
-- **AI integration:** Built AI features with proper safeguards (rate limiting, audit logging)
-- **Debugging:** Fixed production issues (RLS policies, API failures, frontend state bugs)
+- **Production experience:** shipped and maintained live applications with real users  
+- **CI/CD pipelines:** automated deployments with GitHub Actions + Docker  
+- **System reliability:** implemented RLS, auth security, and error handling  
+- **Debugging:** resolved real production issues (API failures, state bugs, RLS policies)  
+- **AI systems:** built multi-agent workflows with monitoring and safeguards  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, JavaScript, TypeScript  
-**Backend:** Node.js, Supabase, PostgreSQL  
+**Frontend:** React, TypeScript, JavaScript  
+**Backend:** Supabase, Node.js, PostgreSQL  
 **DevOps:** Docker, GitHub Actions, Netlify  
-**AI:** Hugging Face, Mistral, Python
+**AI:** Mistral, Hugging Face, Python  
 
 ---
 
-
-
 ## 🌱 Currently Learning
 
-- Node.js backend development
-- AWS Cloud Practitioner certification
-- Advanced Docker workflows
+- Advanced backend development (Node.js)
+- Cloud fundamentals (AWS)
+- Scalable system design
 
 ---
 
 ## 📫 Contact
 
-**Email:** taniaboudedja@outlook.fr  
-**Portfolio:** [taniaboudedja.netlify.app](http://taniaboudedja.netlify.app/)  
-**Location:** Ontario, Canada
+📧 taniaboudedja@outlook.fr  
+🌐 https://taniaboudedja.netlify.app  
+📍 Ontario, Canada  
 
 ---
 
+⭐ If you're working on interesting projects or hiring, feel free to reach out!
