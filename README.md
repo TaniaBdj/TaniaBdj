@@ -9,7 +9,7 @@ React • Supabase • TypeScript • CI/CD • Docker
 ## 🚀 Featured Project
 
 ### 🔗 Azmam — All-in-One Study Platform  
-👉 Live App: https://taniaboudedja.netlify.app  
+👉 Live App: https://azmam.netlify.app/home
 
 Production-ready web application with **30+ users** and active usage.
 
