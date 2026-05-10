@@ -14,14 +14,14 @@ React • Supabase • TypeScript • CI/CD • Docker
 Production-ready web application with **30+ users** and active usage.
 
 ### ✨ Key Features
-- Unified dashboard (notes, tasks, schedule, Pomodoro)
+- Unified dashboard 
 - Secure authentication (Magic Link, Google OAuth)
 - Offline-first functionality with data sync
 - Real-time updates and user-driven improvements
 
 ### ⚡ Impact
 - 6+ months in production  
-- 30+ registered users, active usage  
+- 50+ registered users, active usage  
 - Weekly releases based on user feedback  
 - ~30% improvement in initial load performance  
 
